@@ -20,7 +20,7 @@ font: 10pt/1.5em Helvetica,"Helvetica neue", Arial, sans-serif;
  section {
 float: right; width: 428px;
 padding-left: 20px; margin: 0 0 20px 0px;
-//border-left: 1px dotted #000;
+border-left: 1px dotted #000;
 }
 
 section h2 {
@@ -37,7 +37,7 @@ width:940px;
 height: 100px;
 padding: 10px;
 color:#200f08 ;
-//border-top: 1px dotted #000;
+border-top: 1px dotted #000;
 background:#fff;
 }
 h1 {
