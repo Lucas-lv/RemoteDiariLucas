@@ -167,3 +167,60 @@ GitHub:
     27. Anar al vostre repositori en Github.com i comprovar que ho teniu idèntic al vostre repositori  local.
         
 ![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/comprovar%20repo.png)
+
+
+## A GITHUB.COM:
+
+    28. Crear una branca “bugfix” a partir de la “master” per resoldre una sèrie de modificacions.
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/bugfix.png)
+
+       
+    29. Treure els comentaris en les CSS de les dues vores (comencen per //border ).
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/border.png)
+
+    30. Crear un commit indicant que introdueixen les vores en la barra dreta i en el footer. 
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/vores.png)
+
+    31. Introduir com a títol “Diari de Vostre Nom”.
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/titol.png)
+
+    32. Crear un commit indicant que s'introdueix el títol a la pàgina. 
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/commit%20titol.png)
+
+    33. Canviar 2012 per 2018 en el footer. Treure (c).
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/copy.png)
+
+    34. Crear un commit indicant que es realitzen petits ajustos en el footer. 
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/commit%20canvis%20footer.png)
+
+    35. Crear una etiqueta de v1.1
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/etiqueta%20v1.1.png)
+
+    36. Portar aquests canvis a la branca “master” ( realitzar un merge). 
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/Captura%20de%202020-10-16%2018-49-36.png)
+
+    37. Esborrar la branca “bugfix”.
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/borrar%20raiz.png)
+
+    38. Portar els canvis de la branca “develop” a la branca “master”. Resoldre els conflictes, si hi hagués. 
+
+    39. Crear una etiqueta de v1.2
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/v1.2.png)
+
+    40. Afegir fitxer DOCUMENT.MD amb tota la pràctica, captura de pantalla, explicacions etc…També en Markdown. ( en github). Podeu triar entre elaborar-lo en local i pujar-ho a github ( ex: drag and drop) o treballar directament en l'editor de Github.
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/document.md.png)
+
+    41. Activar la utilització de gh-pages i l'adreça de la pàgina web que es mostrés: recordar que serà del tipus https://username.github.io/Diariremotoeduardo.
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/gh-pages.png)
+
+    42. Afegir un document Readme.md escrit en Markdown, amb el vostre nom, curs i nom- practica “Practica Diari Vostre Nom” i enllaç a la vostra pàgina generada anteriorment.
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/readme.png)
+
+    43. Lliurar l'adreça web del vostre master ( repositori). Heu de tenir tots els elements i la pagina s'ha de visualitzar de forma correcta, en particular la carpeta CSS amb el css creat i la carpeta imatges.
+Adreça: https://github.com/Lucas-lv/RemoteDiariLucas/tree/master
+
+## AL REPOSITORI LOCAL :
+
+   44. Actualitzar-ho amb els commits i canvis fets en el repositori remot ( fent possiblement git fetch i git pull).
+![](https://github.com/Lucas-lv/RemoteDiariLucas/blob/master/ex44.png)
+	
